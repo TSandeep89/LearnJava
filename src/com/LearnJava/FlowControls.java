@@ -1,7 +1,7 @@
 
 package com.LearnJava;
 
-public class Switchcase {
+public class FlowControls {
 
     public static void main(String[] args) {
 
